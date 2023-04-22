@@ -3,7 +3,7 @@ title: Introduction
 type: docs
 ---
 
-# Austria Tour - Yogi Portal
+# Hallo!
 
 Welcome to Austria Tour's Yogi portal! Here you can find all the information and updates around
 the tour.
@@ -87,17 +87,6 @@ Account holder: Juan Daniel Arango García
 >1050
 >
 >Belgium
-{{< /tab >}}
-
-{{< tab "What to bring" >}}
-## What to bring
-- Sleeping bag (SUPER IMPORTANT!!!)
-- Fancy glitzy puja attire
-- Appropriate swimming costume
-- Proper shoe that can be used for hiking
-- Sunscreen
-- Personal hygiene products
-- Good vibrations!
 {{< /tab >}}
 
 {{< /tabs >}}
