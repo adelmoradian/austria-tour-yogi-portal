@@ -1,81 +1,143 @@
 ---
-title: Введение
+title: Introduction
 type: docs
 ---
 
-# Servos!
+# Austria Tour - Yogi Portal
 
-Diese ist die este page in German
+Welcome to Austria Tour's Yogi portal! Here you can find all the information and updates around
+the tour.
 
-{{< columns >}}
-## Astris ipse furtiva
+For regular updates, see the [blog section](./posts/_index.md).
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+To register for the tour, please fill up the [registration form!](https://forms.gle/8ffvTURcSJYZHwNX8).
 
-<--->
+## General information
 
-## Suis quot vota
+{{< tabs "uniqueid" >}}
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+{{< tab "Schedule and route" >}}
+## Schedule and route
+The tour will last for approximately two weeks from 16th to 31st of July and will focus on cities with fewer number of Yogis.
+It will be possible to join only parts of the tour!
 
+The schedule is as follows:
+- 16th - Vienna
+- 17th and 18th - Graz
+- 19th and 20th - Klagenfurt
+- 21st, 22nd and 23rd - Innsbruck
+- 24th and 25th - Salzburg
+- 26th and 27th - Linz
+- 28th - St.Pölten
+- 29th and 30th - Horn
+- 31st - Wiener Neustadt and return to Vienna
 
-## Tempora nisi nunc
+As of now, most likely we will have venues in Wiener Neustadt, Horn, Linz, St.Pölten and probably Klagenfurt.
+In these cities we will have music performance accompanied by meditation and self realization.
+In Graz, Innsbruck and Salzburg we are planning to do more casual street realization.
+We have not planned any programs for Vienna however being spontaneous is always an option!
+Make sure to check out the [blog section](./posts/_index.md) for the latest updates!
+{{< /tab >}}
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+{{< tab "Programs" >}}
+## Programs
+The main theme of the tour is getting back to self and reconnecting with our deeper spirit.
+This can only achieved (however momentarily) by letting go of our thoughts and being in meditation,
+in the moment. We are using `in the moment` as the name of the programs.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
+A fanciful description can be:
+>Swinging between work and studies, relationships and social life, tech trends and apocalyptic news,
+>we rarely remember the true nature of our lives.
+>With the help of meditation, music and art we hope to give you that rare opportunity to let it all go and be closer to
+>your true self. With your spirit. Between the noise and beyond time. In the moment.
+{{< /tab >}}
 
-## Locis suis novi cum suoque decidit eadem
+{{< tab "Costs" >}}
+## Costs
+The biggest factors are accommodation and transport. Some of the regional yogis have graciously offered to accommodate
+the touring yogis while in some cities we would like to camp in campgrounds to bring down the cost and also enjoy the
+fabulous Austrian nature! The cost estimates are as follow:
+- Total accommodation cost for the duration of the tour: around 250 Euros per person.
+    This includes a combination of camping, staying with yogis and hostels.
+- Total cost of transporting between cities: around 200 Euros per person. This assumes only using public transport and
+    everyone buying a Vorteilskarte. It does not include hiring a van for transporting equipment but still a conservative
+    estimate considering that many Austrians already have a Vorteilskarte and maybe some might even have Klimatickets.
+    It is possible to bring down this cost significantly if the collective can provide a van/bus for parts or all of the tour.
+- Total food cost: 192 Euros per person. Assuming 12 Euros per day for 16 days. We will try to prepare our own food when possible to reduce costs.
+- Other costs such as venue hire, van hire and fuel, equipment hire, advertisement etc.:
+    3000 Euro for the whole tour. This cost is divided between the participants (around 20 participants)
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. _Ille_ inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
+With the above assumptions, the total cost of the tour comes up to approximately 792 Euro per person.
 
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
+We would like to ask the collective for financial donations to reduce the cost of joining the tour.
+For our part, we will transparently update the collective on received donations and expenses of the tour.
+If after the tour any funds are left over, they will all be donated back to the Austrian collective.
+So please consider donating to the following account. Our accountant is the friendly Daniel Arango!
 
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
+Account holder: Juan Daniel Arango García
 
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te _nati_
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
+>BIC: TRWIBEB1XXX
+>
+>IBAN: BE64 9676 0072 9652
+>
+>Dirección de Wise: Avenue Louise 54, Room S52
+>
+>Brussels
+>
+>1050
+>
+>Belgium
+{{< /tab >}}
 
-    direct *= font(inputScareware(sliHome), crossplatform.byte(
-            ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-            floating_speakers.media_printer(us, yahoo, primaryPhp)));
-    friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-    if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-        adf -= operation_cdma_samba;
-        imapGif.switch += torrent;
-    } else {
-        pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-        ajax_service += grayscalePythonLock;
-        google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-    }
-    drive_rw = zipTftp;
-    var suffix = software_router_extension.dimm_ddr(-5,
-            kernel_digital_minisite);
+{{< tab "What to bring" >}}
+## What to bring
+- Sleeping bag (SUPER IMPORTANT!!!)
+- Fancy glitzy puja attire
+- Appropriate swimming costume
+- Proper shoe that can be used for hiking
+- Sunscreen
+- Personal hygiene products
+- Good vibrations!
+{{< /tab >}}
 
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
+{{< /tabs >}}
+
+This tour can only be made possible by the generous donations and support from the local yogis.
+If you would like to support the tour, please consider donating to the following account:
+>BIC: TRWIBEB1XXX
+>
+>IBAN: BE64 9676 0072 9652
+>
+>Dirección de Wise: Avenue Louise 54, Room S52
+>
+>Brussels
+>
+>1050
+>
+>Belgium
+
+To show our gratitude for your donations, we have come up with the following rewards:
+
+{{< details title="1 to 10 Euro" open=false >}}
+A big Thank You!
+{{< /details >}}
+
+{{< details title="11 to 100 Euro" open=false >}}
+An even bigger Thank You!
+{{< /details >}}
+
+{{< details title="101 to 200 Euro" open=false >}}
+A collective bandhan for your problems! Probably the most expensive bandhan of your life...
+{{< /details >}}
+
+{{< details title="201 to 400 Euro" open=false >}}
+A collective shoebeat of your ego! Thank us later...
+{{< /details >}}
+
+{{< details title="401 to 1000 Euro" open=false >}}
+We will lieterally do a havan for you!
+{{< /details >}}
+
+{{< details title="1001 Euro and more" open=false >}}
+We will announce you an an official sponsor of the tour.
+{{< /details >}}
