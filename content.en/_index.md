@@ -16,7 +16,7 @@ To register for the tour, please fill up the [registration form!](https://forms.
 
 {{< tabs "uniqueid" >}}
 
-{{< tab "Schedule and route" >}}
+{{< tab "Schedule" >}}
 ## Schedule and route
 The tour will last for approximately two weeks from 16th to 31st of July and will focus on cities with fewer number of Yogis.
 It will be possible to join only parts of the tour!
@@ -39,7 +39,7 @@ We have not planned any programs for Vienna however being spontaneous is always 
 Make sure to check out the [blog section](./posts/_index.md) for the latest updates!
 {{< /tab >}}
 
-{{< tab "Programs" >}}
+{{< tab "Theme" >}}
 ## Programs
 The main theme of the tour is getting back to self and reconnecting with our deeper spirit.
 This can only achieved (however momentarily) by letting go of our thoughts and being in meditation,
@@ -104,29 +104,3 @@ If you would like to support the tour, please consider donating to the following
 >1050
 >
 >Belgium
-
-To show our gratitude for your donations, we have come up with the following rewards:
-
-{{< details title="1 to 10 Euro" open=false >}}
-A big Thank You!
-{{< /details >}}
-
-{{< details title="11 to 100 Euro" open=false >}}
-An even bigger Thank You!
-{{< /details >}}
-
-{{< details title="101 to 200 Euro" open=false >}}
-A collective bandhan for your problems! Probably the most expensive bandhan of your life...
-{{< /details >}}
-
-{{< details title="201 to 400 Euro" open=false >}}
-A collective shoebeat of your ego! Thank us later...
-{{< /details >}}
-
-{{< details title="401 to 1000 Euro" open=false >}}
-We will lieterally do a havan for you!
-{{< /details >}}
-
-{{< details title="1001 Euro and more" open=false >}}
-We will announce you an an official sponsor of the tour.
-{{< /details >}}
