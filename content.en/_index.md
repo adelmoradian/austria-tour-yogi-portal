@@ -5,6 +5,8 @@ type: docs
 
 # Hallo!
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A1V_ty_n1CM" title="Yogi promo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Welcome to Austria Tour's Yogi portal! Here you can find all the information and updates around
 the tour.
 
