@@ -8,11 +8,18 @@ type: docs
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A1V_ty_n1CM" title="Yogi promo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Welcome to Austria Tour's Yogi portal! Here you can find all the information and updates around
-the tour.
-
-For regular updates, see the [blog section](./posts/_index.md).
+the tour. For regular updates, see the [blog section](./posts/_index.md).
 
 To register for the tour, please fill up the [registration form!](https://forms.gle/8ffvTURcSJYZHwNX8).
+
+{{< hint danger >}}
+**Help Needed**  
+If you can provide help in any of these areas, please contact us personally or on **austriaSYtour@outlook.com**
+
+- Accommodating touring yogis
+- Help with transporting yogis and/or equipment between the cities and/or within the cities
+- Organizing fund raising event
+{{< /hint >}}
 
 ## General information
 
@@ -70,9 +77,12 @@ fabulous Austrian nature! The cost estimates are as follow:
     3000 Euro for the whole tour. This cost is divided between the participants (around 20 participants)
 
 With the above assumptions, the total cost of the tour comes up to approximately 792 Euro per person.
+This is obviously a lot so we are trying to reduce the cost of the tour by doing fund raising.
+Our target cost for joining the tour is 350/500 Euros. We have decided to opt for having two prices so that
+Yogis who can financially afford it, can pay a bit more to make it easier for the rest.
 
-We would like to ask the collective for financial donations to reduce the cost of joining the tour.
-For our part, we will transparently update the collective on received donations and expenses of the tour.
+Keep in mind that both 350 and 500 Euros are subsidized and do need a decent amount of fundraising from the
+collective! For our part, we will transparently update the collective on received donations and expenses of the tour.
 If after the tour any funds are left over, they will all be donated back to the Austrian collective.
 So please consider donating to the following account. Our accountant is the friendly Daniel Arango!
 
@@ -91,6 +101,21 @@ Account holder: Juan Daniel Arango García
 >Belgium
 {{< /tab >}}
 
+{{< tab "Team" >}}
+There are obviously many yogis involved in such an effort so this is by no means a comprehensive list!
+However this is the closest that it gets to a "core" team:
+
+- Viktoria Wirth
+- Adel Moradian
+- Daniel Arango
+- Janaki Hackl
+- Arina Sterkhova
+- Marko Stojanovic
+- Gauri Reinhold
+- Shantanu Reinhold
+- Govinda Aaron Bumberger
+{{< /tab >}}
+
 {{< /tabs >}}
 
 This tour can only be made possible by the generous donations and support from the local yogis.
@@ -106,3 +131,7 @@ If you would like to support the tour, please consider donating to the following
 >1050
 >
 >Belgium
+
+<label for="file">Donations Gathered: 200 Euros - Target is around 8000 Euros</label></br>
+<label for="file">Target: 8000 Euros</label></br>
+<progress id="file" value="2.5" max="100"></progress>
