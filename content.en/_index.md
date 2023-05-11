@@ -99,6 +99,10 @@ Account holder: Juan Daniel Arango García
 >1050
 >
 >Belgium
+>
+>Purpose: Austria sahaja yoga tour - summer 2023
+>
+>Recipient: Juan Daniel Arango García
 {{< /tab >}}
 
 {{< tab "Team" >}}
@@ -131,7 +135,10 @@ If you would like to support the tour, please consider donating to the following
 >1050
 >
 >Belgium
+>
+>Purpose: Austria sahaja yoga tour - summer 2023
+>
+>Recipient: Juan Daniel Arango García
 
-<label for="file">Donations Gathered: 200 Euros - Target is around 8000 Euros</label></br>
-<label for="file">Target: 8000 Euros</label></br>
-<progress id="file" value="2.5" max="100"></progress>
+<label for="file">Donations Gathered: 1500 Euros / Target: 8000 Euros</label><br>
+<progress id="file" value="18.7" max="100"></progress>
