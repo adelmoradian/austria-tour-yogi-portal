@@ -88,6 +88,8 @@ So please consider donating to the following account. Our accountant is the frie
 
 Account holder: Juan Daniel Arango García
 
+>Recipient: Juan Daniel Arango García
+>
 >BIC: TRWIBEB1XXX
 >
 >IBAN: BE64 9676 0072 9652
@@ -101,8 +103,6 @@ Account holder: Juan Daniel Arango García
 >Belgium
 >
 >Purpose: Austria sahaja yoga tour - summer 2023
->
->Recipient: Juan Daniel Arango García
 {{< /tab >}}
 
 {{< tab "Team" >}}
@@ -124,6 +124,8 @@ However this is the closest that it gets to a "core" team:
 
 This tour can only be made possible by the generous donations and support from the local yogis.
 If you would like to support the tour, please consider donating to the following account:
+>Recipient: Juan Daniel Arango García
+>
 >BIC: TRWIBEB1XXX
 >
 >IBAN: BE64 9676 0072 9652
@@ -137,8 +139,6 @@ If you would like to support the tour, please consider donating to the following
 >Belgium
 >
 >Purpose: Austria sahaja yoga tour - summer 2023
->
->Recipient: Juan Daniel Arango García
 
 <label for="file">Donations Gathered: 1500 Euros / Target: 8000 Euros</label><br>
 <progress id="file" value="18.7" max="100"></progress>
