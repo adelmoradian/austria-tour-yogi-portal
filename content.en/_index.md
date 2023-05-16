@@ -8,7 +8,12 @@ type: docs
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A1V_ty_n1CM" title="Yogi promo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Welcome to Austria Tour's Yogi portal! Here you can find all the information and updates around
-the tour. For regular updates, see the [blog section](./posts/_index.md).
+the tour. Keep in mind that info here is work in progress and will be updated as go along.
+
+- [Accommodation details](docs/accommodation.md)
+- [Cost estimate](docs/costEstimate.md)
+- [Day plan](docs/DayPlan.md)
+- [Concert details](docs/concerts.md)
 
 To register for the tour, please fill up the [registration form!](https://forms.gle/8ffvTURcSJYZHwNX8).
 
@@ -16,7 +21,7 @@ To register for the tour, please fill up the [registration form!](https://forms.
 **Help Needed**  
 If you can provide help in any of these areas, please contact us personally or on **austriaSYtour@outlook.com**
 
-- Accommodating touring yogis
+- Accommodating touring yogis in or around **Linz**, **St.PÃ¶lten**, **Horn** and **Vienna**
 - Help with transporting yogis and/or equipment between the cities and/or within the cities
 - Organizing fund raising event
 {{< /hint >}}
@@ -31,7 +36,7 @@ The tour will last for approximately two weeks from 16th to 31st of July and wil
 It will be possible to join only parts of the tour!
 
 The schedule is as follows:
-- 16th - Vienna
+- 16th - Vienna and Graz
 - 17th and 18th - Graz
 - 19th and 20th - Klagenfurt
 - 21st, 22nd and 23rd - Innsbruck
@@ -45,7 +50,7 @@ As of now, most likely we will have venues in Wiener Neustadt, Horn, Linz, St.PÃ
 In these cities we will have music performance accompanied by meditation and self realization.
 In Graz, Innsbruck and Salzburg we are planning to do more casual street realization.
 We have not planned any programs for Vienna however being spontaneous is always an option!
-Make sure to check out the [blog section](./posts/_index.md) for the latest updates!
+Make sure to check out the [day plan](./docs/dayplan.md) and [concert details](docs/concerts.md) for the latest updates!
 {{< /tab >}}
 
 {{< tab "Theme" >}}
@@ -64,20 +69,11 @@ A fanciful description can be:
 {{< tab "Costs" >}}
 ## Costs
 The biggest factors are accommodation and transport. Some of the regional yogis have graciously offered to accommodate
-the touring yogis while in some cities we would like to camp in campgrounds to bring down the cost and also enjoy the
-fabulous Austrian nature! The cost estimates are as follow:
-- Total accommodation cost for the duration of the tour: around 250 Euros per person.
-    This includes a combination of camping, staying with yogis and hostels.
-- Total cost of transporting between cities: around 200 Euros per person. This assumes only using public transport and
-    everyone buying a Vorteilskarte. It does not include hiring a van for transporting equipment but still a conservative
-    estimate considering that many Austrians already have a Vorteilskarte and maybe some might even have Klimatickets.
-    It is possible to bring down this cost significantly if the collective can provide a van/bus for parts or all of the tour.
-- Total food cost: 192 Euros per person. Assuming 12 Euros per day for 16 days. We will try to prepare our own food when possible to reduce costs.
-- Other costs such as venue hire, van hire and fuel, equipment hire, advertisement etc.:
-    3000 Euro for the whole tour. This cost is divided between the participants (around 20 participants)
+the touring yogis while others have offered their car! These have greatly brought down the costs of joining and have made the
+tour possible. For more details on our cost estimate see [Cost estimate](docs/costEstimate.md).
 
-With the above assumptions, the total cost of the tour comes up to approximately 792 Euro per person.
-This is obviously a lot so we are trying to reduce the cost of the tour by doing fund raising.
+Currently we are expecting the total cost of joining the tour to be approximately 620 Euros per person.
+This is still a lot so we are trying to reduce the cost of the tour by doing fund raising.
 Our target cost for joining the tour is 350/500 Euros. We have decided to opt for having two prices so that
 Yogis who can financially afford it, can pay a bit more to make it easier for the rest.
 
@@ -140,5 +136,5 @@ If you would like to support the tour, please consider donating to the following
 >
 >Purpose: Austria sahaja yoga tour - summer 2023
 
-<label for="file">Donations Gathered: 1500 Euros / Target: 8000 Euros</label><br>
-<progress id="file" value="18.7" max="100"></progress>
+<label for="file">Donations Collected: 2500 Euros / Target: 5500 Euros</label><br>
+<progress id="file" value="45" max="100"></progress>
