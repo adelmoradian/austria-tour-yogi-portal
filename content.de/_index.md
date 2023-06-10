@@ -17,19 +17,6 @@ Beachten Sie bitte, dass die Informationen hier noch in Bearbeitung sind und lau
 
 Um sich für die Tour anzumelden, füllen Sie bitte das [Anmeldeformular](https://forms.gle/8ffvTURcSJYZHwNX8) aus.
 
-{{< hint danger >}}
-**Hilfe benötigt**  
-Wenn Sie in einem dieser Bereiche Hilfe anbieten können, kontaktieren Sie uns bitte persönlich oder unter **austriaSYtour@outlook.com**
-
-- Unterkunft für Yogis während der Tour in oder um *Linz**, **St.Pölten**, **Horn** und **Vienna**
-- Unterstützung beim Transport von Yogis und/oder Ausrüstung zwischen den Städten und/oder innerhalb der Städte
-- Organisation von Fundraising-Veranstaltungen
-{{< /hint >}}
-
-{{< hint danger >}}
-Diese gesamte Website wurde mit ChatGPT übersetzt! Bitte verzeihen Sie uns, wenn Fehler auftreten sollten.
-{{< /hint >}}
-
 ## Allgemeine Informationen
 
 {{< tabs "uniqueid" >}}

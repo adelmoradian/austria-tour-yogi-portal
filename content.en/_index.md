@@ -17,15 +17,6 @@ the tour. Keep in mind that info here is work in progress and will be updated as
 
 To register for the tour, please fill up the [registration form!](https://forms.gle/8ffvTURcSJYZHwNX8).
 
-{{< hint danger >}}
-**Help Needed**  
-If you can provide help in any of these areas, please contact us personally or on **austriaSYtour@outlook.com**
-
-- Accommodating touring yogis in or around **Linz**, **St.Pölten**, **Horn** and **Vienna**
-- Help with transporting yogis and/or equipment between the cities and/or within the cities
-- Organizing fund raising event
-{{< /hint >}}
-
 ## General information
 
 {{< tabs "uniqueid" >}}
@@ -136,5 +127,5 @@ If you would like to support the tour, please consider donating to the following
 >
 >Purpose: Austria sahaja yoga tour - summer 2023
 
-<label for="file">Donations Collected: 2500 Euros / Target: 5500 Euros</label><br>
-<progress id="file" value="45" max="100"></progress>
+<label for="file">Donations Collected: 5500 Euros / Target: 5500 Euros</label><br>
+<progress id="file" value="100" max="100"></progress>
